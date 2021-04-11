@@ -1,8 +1,8 @@
 
 
 ### Hi there, I'm Berat   👋
-## I'm a junior developer 
-## I am studying Computer Engineering and Management information systems
+- I'm a junior developer 
+- I am studying Computer Engineering and Management information systems
 - 🌱 I’m currently learning  c#, java, angular and kotlin
 
 [instagram]: https://www.instagram.com/beratybk/
