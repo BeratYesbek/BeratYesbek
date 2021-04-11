@@ -19,14 +19,5 @@
 [instagram]: https://www.instagram.com/beratybk/
 [linkedin]: https://www.linkedin.com/in/berat-yesbek-89b6821b0/
 
-### Languages and Tools:
 
 
-
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
