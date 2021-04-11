@@ -1,7 +1,7 @@
 
 
 ### Hi there, I'm Berat   👋
-## I'm a junior developer and computer engineer!!
+## I'm a junior developer and computer engineer
 - 🌱 I’m currently learning  c#, java, angular and kotlin
 - 👯 I want to learn everyting I have no 
 - 💬 Ask me about ... Anything
