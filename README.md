@@ -7,10 +7,7 @@
 
 
 my email address: beratyesbek@gmail.com 
-
-
-[instagram]: https://www.instagram.com/beratybk/
-[linkedin]: https://www.linkedin.com/in/berat-yesbek-89b6821b0/
+my Linkedln account : https://www.linkedin.com/in/berat-yesbek-89b6821b0/
 
 
 
