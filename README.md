@@ -8,13 +8,12 @@
 
 ### - I'm looking for an internship
 
-- 📫 How to reach me:
--  <br>
-
- [<img src="https://mlkyi6enm0g5.i.optimole.com/EehaMug.G1GK~411f/w:auto/h:auto/q:75/https://ovuncguvenersoy.com/wp-content/uploads/yeni-gmail-logo-revizyonu.jpg" alt="gmail logo" title="gmail"  height="25"/>
+#📫 How to reach me:
+<br>
+ [<img src="https://mlkyi6enm0g5.i.optimole.com/EehaMug.G1GK~411f/w:auto/h:auto/q:75/https://ovuncguvenersoy.com/wp-content/uploads/yeni-gmail-logo-revizyonu.jpg" alt="gmail logo" title="gmail"  height="55"/>
 my email address: beratyesbek@gmail.com ]
 <br>
-[<img src="https://img2.pngindir.com/20180406/jpq/kisspng-linkedin-logo-computer-icons-comcast-business-get-started-now-button-5ac6f544698595.9898331815229883564322.jpg" alt="linkedln logo" title="linkedln"  height="25"/> my Linkedln account : https://www.linkedin.com/in/berat-yesbek-89b6821b0/]
+[<img src="https://img2.pngindir.com/20180406/jpq/kisspng-linkedin-logo-computer-icons-comcast-business-get-started-now-button-5ac6f544698595.9898331815229883564322.jpg" alt="linkedln logo" title="linkedln"  height="55"/> my Linkedln account : https://www.linkedin.com/in/berat-yesbek-89b6821b0/]
 
 
 ## My Technologies and Languages
@@ -34,9 +33,9 @@ my email address: beratyesbek@gmail.com ]
 ## 🛠 My Tools
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://badges.aleen42.com/src/visual_studio_dfc.svg"/>
-<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="Android Studio logo" title="Android Studio" height="25" />
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="Pycharm logo" title="Pycharm" height="25" />
-<img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" alt="Intellij idea logo" title="Intellij idea" height="25" />]
+<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="Android Studio logo" title="Android Studio" height="45" />
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="Pycharm logo" title="Pycharm" height="45" />
+<img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" alt="Intellij idea logo" title="Intellij idea" height="45" />]
 
 
 
