@@ -22,9 +22,9 @@ my email address: beratyesbek@gmail.com ]
 <img src="https://img.shields.io/badge/C%23-239120?color=272D2D&logo=c-sharp&logoColor=purple" alt="c-sharp logo" title="c-sharp"  height="25"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?color=272D2D&logo=java&logoColor=orange" alt="java logo" title="java"  height="25"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" alt="python logo" title="python"  height="25"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="netCore logo" title="netCore"  height="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="netCore logo" title="netCore"  height="30"/>
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" alt="firebase logo" title="firebase"  height="25"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" alt="Angular logo" title="Angular" height="25" />
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" alt="Angular logo" title="Angular" height="30" />
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?color=272D2D&logo=bootstrap&logoColor=purple" alt="bootstrap logo" title="bootstrap"  height="25"/>
