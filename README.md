@@ -32,11 +32,11 @@ my email address: beratyesbek@gmail.com ]
 
 
 ## 🛠 My Tools
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://badges.aleen42.com/src/visual_studio_dfc.svg"/>
-<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="Android Studio logo" title="Android Studio" height="45" />
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="Pycharm logo" title="Pycharm" height="45" />
-<img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" alt="Intellij idea logo" title="Intellij idea" height="45" />]
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="35" />
+<img src="https://badges.aleen42.com/src/visual_studio_dfc.svg" height="35"/>
+<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="Android Studio logo" title="Android Studio" height="35" />
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="Pycharm logo" title="Pycharm" height="35" />
+<img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" alt="Intellij idea logo" title="Intellij idea" height="35" />]
 
 
 
