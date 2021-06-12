@@ -5,9 +5,6 @@
 - I am studying Computer Engineering and Management information systems
 - 🌱 I’m currently learning  c#, java, angular, python and kotlin
 
-
-### - I'm looking for an internship
-
 ### Reach me
 
  [<img src="https://mlkyi6enm0g5.i.optimole.com/EehaMug.G1GK~411f/w:auto/h:auto/q:75/https://ovuncguvenersoy.com/wp-content/uploads/yeni-gmail-logo-revizyonu.jpg" alt="gmail logo" title="gmail"  height="30"/>
