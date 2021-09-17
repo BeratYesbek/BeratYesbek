@@ -49,8 +49,9 @@ I'm studying computer engineering and Management Information System. I love this
    &emsp;
 </p>
 <br/>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Frameworks Tools & Technologies..***
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  Frameworks Tools & Technologies..
 <p align="left">
+  
   
   <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
