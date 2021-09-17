@@ -3,14 +3,14 @@
 <h1><p align="center">Hello, I'm Berat! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 I'm studying computer engineering and Management Information System. I love this industry, Software is a passion for me. It is my lifestyle. I have been trying to learn all technologies and software languages, and I am trying to implement the best way Usually I am coding with Java, C# and Kotlin, I am using Angular and React as frontend. I am improving my process management and algorithm skills, I am interested with Football, Neuroscience and Psychology
 
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berat-yesbek-89b6821b0/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beratybk/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BeratYesbekk)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratyesbek@gmail.com)
- 
+ </div>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
