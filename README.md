@@ -44,11 +44,11 @@ I'm studying computer engineering and Management Information System. I love this
   </a>
       &emsp;
   <a href="">
-    <img alt="Python" src=" https://img.shields.io/badge/python-%23F7DF1E.svg?logo=python&logoColor=white&color=0275d8"/>
+    <img alt="Python" src="https://img.shields.io/badge/python-%23F7DF1E.svg?logo=python&logoColor=white&color=0275d8"/>
   </a>
    &emsp;
 </p>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Frameworks,Tools & Technologies...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Frameworks Tools & Technologies...***
 <p align="left">
   
   <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
