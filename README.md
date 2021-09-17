@@ -48,11 +48,8 @@ I'm studying computer engineering and Management Information System. I love this
   </a>
    &emsp;
 </p>
-<br/>
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  Frameworks Tools & Technologies..
+### 👉  Frameworks Tools & Technologies..
 <p align="left">
-  
-  
   <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
@@ -60,7 +57,6 @@ I'm studying computer engineering and Management Information System. I love this
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
    <code><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.svg"></code>
-
 
 </p>
 
