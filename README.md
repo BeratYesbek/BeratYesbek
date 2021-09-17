@@ -38,19 +38,17 @@ I'm studying computer engineering and Management Information System. I love this
   <a href="">
     <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23F7DF1E.svg?logo=ruby&logoColor=white&color=d9534f"/>
   </a>
- 
-     &emsp;
+    &emsp;
   <a href="">
     <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23F7DF1E.svg?logo=typescript&logoColor=white&color=5bc0de"/>
   </a>
       &emsp;
   <a href="">
-    <img alt="Typescript" src=" https://img.shields.io/badge/python-%23F7DF1E.svg?logo=python&logoColor=white&color=0275d8"/>
+    <img alt="Python" src=" https://img.shields.io/badge/python-%23F7DF1E.svg?logo=python&logoColor=white&color=0275d8"/>
   </a>
- 
+   &emsp;
 </p>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Frameworks,Tools & Technologies***
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Frameworks,Tools & Technologies...***
 <p align="left">
   
   <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
@@ -59,7 +57,7 @@ I'm studying computer engineering and Management Information System. I love this
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-    <code><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.svg"></code>
+   <code><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.svg"></code>
 
 
 </p>
@@ -70,9 +68,9 @@ I'm studying computer engineering and Management Information System. I love this
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/postgresql%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&color=5bc0de"></a>
-
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=black&color=yellow"></a>
+    &emsp;
  </p>
 
 
