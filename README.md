@@ -43,10 +43,6 @@ I'm studying computer engineering and Management Information System. I love this
     <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23F7DF1E.svg?logo=typescript&logoColor=white&color=5bc0de"/>
   </a>
       &emsp;
-  <a href="">
-    <img alt="Python" src="https://img.shields.io/badge/python-%23F7DF1E.svg?logo=python&logoColor=white&color=0275d8"/>
-  </a>
-   &emsp;
 </p>
 
 ### 👉  Frameworks Tools & Technologies..
