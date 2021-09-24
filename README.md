@@ -5,7 +5,7 @@
 I'm studying computer engineering and Management Information System. I love this industry, Software is a passion for me. It is my lifestyle. I have been trying to learn all technologies and software languages, and I am trying to implement the best way Usually I am coding with Java, C# and Kotlin, I am using Angular and React as frontend. I am improving my process management and algorithm skills, I am interested with Football, Neuroscience and Psychology
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contact with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berat-yesbek-89b6821b0/)
