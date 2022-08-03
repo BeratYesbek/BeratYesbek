@@ -39,10 +39,6 @@ in Football, Neuroscience, and Psychology.
    </a>
   &emsp;
   <a href="">
-    <img alt="Java" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=orange"/>
-  </a>
-   &emsp;
-  <a href="">
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23F7DF1E.svg?logo=kotlin&logoColor=white&color=purple"/>
   </a>
     &emsp;
@@ -58,11 +54,9 @@ in Football, Neuroscience, and Psychology.
 
 ### 👉  Frameworks Tools & Technologies..
 <p align="left">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
-   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
    <code><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.svg"></code>
 
