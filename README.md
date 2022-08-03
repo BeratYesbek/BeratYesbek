@@ -58,7 +58,7 @@ in Football, Neuroscience, and Psychology.
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-   <code><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.svg"></code>
+   <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLFrYJ0folWCogovpUI2Dejxjuoqm7meJHAXrjU18&s"></code>
 
 </p>
 
