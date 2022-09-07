@@ -3,11 +3,11 @@
 <h1><p align="center">Hello, I'm Berat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
 I'm studying Computer Engineering and Management Information
-System. Also, I am a backend developer at Privia Security which is
-developing a backend application with Ruby on Rails. I love this
+System. Also, I am a Software Engineer Intern at Deliveryhero/Yemeksepeti Fintech which is
+developing a payment system. I love this
 industry, Software is a passion for me. Likewise, I have been trying to
 learn all technologies and software languages, and trying to
-implement them in the best way. I am usually coding with Ruby, C#
+implement them in the best way. I am usually coding with Ruby,Java, C#
 and Kotlin, I am using TypeScript Angular as frontend and Asp.Net
 core and Ruby on Rails as a backend. In other words, I am not a
 fanatic of any programming languages or technologies. I really like
