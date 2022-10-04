@@ -42,21 +42,20 @@ in Football, Neuroscience, and Psychology.
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23F7DF1E.svg?logo=kotlin&logoColor=white&color=purple"/>
   </a>
     &emsp;
+      <a href="">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=orange"/>
+  </a>
+      &emsp;
   <a href="">
     <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23F7DF1E.svg?logo=ruby&logoColor=white&color=d9534f"/>
   </a>
     &emsp;
-  <a href="">
-    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23F7DF1E.svg?logo=typescript&logoColor=white&color=5bc0de"/>
-  </a>
-      &emsp;
 </p>
 
 ### 👉  Frameworks Tools & Technologies..
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
    <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLFrYJ0folWCogovpUI2Dejxjuoqm7meJHAXrjU18&s"></code>
 
@@ -64,8 +63,6 @@ in Football, Neuroscience, and Psychology.
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/postgresql%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&color=5bc0de"></a>
   &emsp;
