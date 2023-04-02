@@ -8,8 +8,7 @@ developing a payment system. I love this
 industry, Software is a passion for me. Likewise, I have been trying to
 learn all technologies and software languages, and trying to
 implement them in the best way. I am usually coding with Ruby,Java, C#
-and Kotlin, I am using TypeScript Angular as frontend and Asp.Net
-core and Ruby on Rails as a backend. In other words, I am not a
+and Kotlin, I am using TypeScript Angular as frontend and Spring, Spring Boot and Ruby on Rails as a backend. In other words, I am not a
 fanatic of any programming languages or technologies. I really like
 to learn everything about software. In this way, I am improving my
 process management and algorithm skills everyday. I am interested
