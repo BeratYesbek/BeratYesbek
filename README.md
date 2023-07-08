@@ -2,17 +2,12 @@
 
 <h1><p align="center">Hello, I'm Berat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
-I'm studying Computer Engineering and Management Information
-System. Also, I am a Software Engineer Intern at Deliveryhero/Yemeksepeti Fintech which is
-developing a payment system. I love this
-industry, Software is a passion for me. Likewise, I have been trying to
-learn all technologies and software languages, and trying to
-implement them in the best way. I am usually coding with Ruby,Java, C#
-and Kotlin, I am using TypeScript Angular as frontend and Spring, Spring Boot and Ruby on Rails as a backend. In other words, I am not a
-fanatic of any programming languages or technologies. I really like
-to learn everything about software. In this way, I am improving my
-process management and algorithm skills everyday. I am interested
-in Football, Neuroscience, and Psychology.
+I graduated from Computer Engineering and Management Information Systems. I am currently employed as a Software Engineer at Deliveryhero/Yemeksepeti Fintech where I am part of a team responsible for the development of a state-of-the-art payment system. Over the course of my career, I've discovered that software isn't just an occupation for me - it's a deep-rooted passion.
+
+Previously, I found joy in exploring a wide spectrum of technologies and programming languages, focusing on Ruby, Java, C#, and Kotlin, with back-end development work primarily handled by Asp.Net core, JAVA Spring, and Ruby on Rails. However, I now dedicate myself wholly to Java and Spring Boot, driven by an insatiable curiosity to master this technology stack.
+
+This shift in my focus does not denote a fixation on a specific language or technology. Rather, it reflects my inherent desire to constantly learn and evolve in the software landscape, so that improving my process management skills and algorithmic understanding. As I continue to refine my skills and delve deeper into Java and Spring Boot, I'm excited about the challenges and opportunities this journey presents. Beyond the realm of software, I also nurture interests in Football, Neuroscience, and Psychology. Moreover, sometimes I write some inspired by Neuroscience and Psychology. Of course, I can't share those. :)))GitHub: https://github.com/BeratYesbek I graduated from Computer Engineering and Management Information Systems. I am currently employed as a Software Engineer at Deliveryhero/Yemeksepeti Fintech where I am part of a team responsible for the development of a state-of-the-art payment system. Over the course of my career, I've discovered that software isn't just an occupation for me - it's a deep-rooted passion. Previously, I found joy in exploring a wide spectrum of technologies and programming languages, focusing on Ruby, Java, C#, and Kotlin, with back-end development work primarily handled by Asp.Net core, JAVA Spring, and Ruby on Rails. However, I now dedicate myself wholly to Java and Spring Boot, driven by an insatiable curiosity to master this technology stack. This shift in my focus does not denote a fixation on a specific language or technology. Rather, it reflects my inherent desire to constantly learn and evolve in the software landscape, so that improving my process management skills and algorithmic understanding. As I continue to refine my skills and delve deeper into Java and Spring Boot, I'm excited about the challenges and opportunities this journey presents. Beyond the realm of software, I also nurture interests in Football, Neuroscience, and Psychology. Moreover, sometimes I write some inspired by Neuroscience and Psychology. Of course, I can't share those. :)))
+
 
 
 <h3 align="center">Contact with me:</h3>
