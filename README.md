@@ -6,7 +6,7 @@ I graduated from Computer Engineering and Management Information Systems. I am c
 
 Previously, I found joy in exploring a wide spectrum of technologies and programming languages, focusing on Ruby, Java, C#, and Kotlin, with back-end development work primarily handled by Asp.Net core, JAVA Spring, and Ruby on Rails. However, I now dedicate myself wholly to Java and Spring Boot, driven by an insatiable curiosity to master this technology stack.
 
-This shift in my focus does not denote a fixation on a specific language or technology. Rather, it reflects my inherent desire to constantly learn and evolve in the software landscape, so that improving my process management skills and algorithmic understanding. As I continue to refine my skills and delve deeper into Java and Spring Boot, I'm excited about the challenges and opportunities this journey presents. Beyond the realm of software, I also nurture interests in Football, Neuroscience, and Psychology. Moreover, sometimes I write some inspired by Neuroscience and Psychology. Of course, I can't share these. :)))
+This shift in my focus does not denote a fixation on a specific language or technology. Rather, it reflects my inherent desire to constantly learn and evolve in the software landscape, so that improving my process management skills and algorithmic understanding. As I continue to refine my skills and delve deeper into Java and Spring Boot, I'm excited about the challenges and opportunities this journey presents.
 
 
 
