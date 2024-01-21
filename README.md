@@ -2,11 +2,11 @@
 
 <h1><p align="center">Hello, I'm Berat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
-I graduated from Computer Engineering and Management Information Systems. I am currently employed as a Software Engineer at Deliveryhero/Yemeksepeti Fintech where I am part of a team responsible for the development of a state-of-the-art payment system. Over the course of my career, I've discovered that software isn't just an occupation for me - it's a deep-rooted passion.
+I am a Computer Engineering graduate currently serving as a Software Engineer at Deliveryhero/Yemekpay Fintech, contributing to the development of a global payment and wallet system in Turkey. My deep passion for software is the driving force behind my commitment to this dynamic industry. I constantly seek to broaden my expertise by mastering various technologies, focusing on JAVA and the Spring Boot framework. In addition to my coding endeavours, I actively share knowledge with the community through articles and videos on platforms like Medium and YouTube. Beyond the tech world,
 
-Previously, I found joy in exploring a wide spectrum of technologies and programming languages, focusing on Ruby, Java, C#, and Kotlin, with back-end development work primarily handled by Asp.Net core, JAVA Spring, and Ruby on Rails. However, I now dedicate myself wholly to Java and Spring Boot, driven by an insatiable curiosity to master this technology stack.
+Previously, I enjoyed exploring various technologies and programming languages, focusing on Ruby, Java, C#, and Kotlin, with back-end and mobile development work primarily handled by Asp.Net core, JAVA Android SDK, and Ruby on Rails. However, I now dedicate myself wholly to Java and Spring Boot, driven by an insatiable curiosity to master this technology stack.
 
-This shift in my focus does not denote a fixation on a specific language or technology. Rather, it reflects my inherent desire to constantly learn and evolve in the software landscape, so that improving my process management skills and algorithmic understanding. As I continue to refine my skills and delve deeper into Java and Spring Boot, I'm excited about the challenges and opportunities this journey presents.
+This shift in my focus does not denote a fixation on a specific language or technology. Rather, it reflects my desire to constantly learn and evolve in the software landscape to improve my process management skills and algorithmic understanding. As I continue to refine my skills and delve deeper into Java and Spring Boot, I'm excited about the challenges and opportunities this journey presents. I nurture a keen interest in Neuroscience and Psychology, finding inspiration and new perspectives that enrich my approach to software engineering.
 
 
 
@@ -14,56 +14,29 @@ This shift in my focus does not denote a fixation on a specific language or tech
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beratyesbek/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beratyesbek/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BeratYesbekk)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratyesbek@gmail.com)
+[![image](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@beratyesbek)
+[![image](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://medium.com/@beratyesbek)
+
   
 </div>
 
 
 
 ## 🛠️ My Skills
+<ul>
+  <li>Spring Framework, Spring Boot, Hibernate, Spring Security, Java, Kotlin, Unit Test, Integration Test </li>
+  <li>SQL (PostgreSQL), Redis </li>
+  <li>Git, Github, Gitlab, Jira, Confluence </li>
+  <li>OOP (Object-Oriented Programming), AOP (Aspect-Oriented Programming), Cross-Cutting Concern development </li>
+  <li>Maven, Gradle, Swagger, Log4j, Mapstruct, Mocking, </li>
+  <li>Oauth2, JWT, Spring Security</li>
+  <li>REST API, GraphQL, gRPC</li>
+  <li>KAFKA, RabbitMQ, Microservices and Distributed Transaction Management</li>
+  <li>Docker, AWS</li>
+  <li>KAFKA, RabbitMQ, Microservices and Distributed Transaction Management</li>
 
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp;
-  <a href="" target="_blank"> 
-     <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23F7DF1E.svg?logo=csharp&logoColor=white&color=5cb85c">
-   </a>
-  &emsp;
-  <a href="">
-    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23F7DF1E.svg?logo=kotlin&logoColor=white&color=purple"/>
-  </a>
-    &emsp;
-      <a href="">
-    <img alt="Java" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=orange"/>
-  </a>
-      &emsp;
-  <a href="">
-    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23F7DF1E.svg?logo=ruby&logoColor=white&color=d9534f"/>
-  </a>
-    &emsp;
-</p>
-
-### 👉  Frameworks Tools & Technologies..
-<p align="left">
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-   <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLFrYJ0folWCogovpUI2Dejxjuoqm7meJHAXrjU18&s"></code>
-
-</p>
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/postgresql%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&color=5bc0de"></a>
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=black&color=yellow"></a>
-    &emsp;
- </p>
-
+</ul>
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BeratYesbek&theme=algolia" alt="BeratYesbek"  /></p>
