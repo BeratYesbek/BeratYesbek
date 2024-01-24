@@ -25,18 +25,19 @@ This shift in my focus does not denote a fixation on a specific language or tech
 
 ## 🛠️ My Skills
 <ul>
-  <li>Spring Framework, Spring Boot, Hibernate, Spring Security, Java, Kotlin, Unit Test, Integration Test </li>
-  <li>SQL (PostgreSQL), Redis </li>
-  <li>Git, Github, Gitlab, Jira, Confluence </li>
-  <li>OOP (Object-Oriented Programming), AOP (Aspect-Oriented Programming), Cross-Cutting Concern development </li>
-  <li>Maven, Gradle, Swagger, Log4j, Mapstruct, Mocking, </li>
-  <li>Oauth2, JWT, Spring Security</li>
-  <li>REST API, GraphQL, gRPC</li>
-  <li>KAFKA, RabbitMQ, Microservices and Distributed Transaction Management</li>
-  <li>Docker, AWS</li>
-  <li>KAFKA, RabbitMQ, Microservices and Distributed Transaction Management</li>
-
+  <li>Spring Framework, Spring Boot, Hibernate, Spring Security and Spring Data JPA</li>
+  <li>Java, Kotlin, Javascript and Typescript</li>
+  <li>SQL (PostgreSQL) and Redis</li>
+  <li>Git, Github, Gitlab, Jira and Confluence</li>
+  <li>OOP (Object-Oriented Programming), AOP (Aspect-Oriented Programming) and Cross-Cutting Concern development</li>
+  <li>Maven, Gradle, Swagger, Log4j, Mapstruct, Mocking, Apache Libraries, JUnit</li>
+  <li>OAuth2, JWT, Spring Security</li>
+  <li>REST API, SOAP, GraphQL, gRPC</li>
+  <li>KAFKA, RabbitMQ, Debezium, Saga and Outbox pattern, Worker Job</li>
+  <li>Docker, AWS and CI/CD</li>
+  <li>Data Structures, Design patterns, Creative Problem-Solving, Engineering, Leadership, Algorithms, Project Management, Sincere and friendly Communication</li>
 </ul>
+
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BeratYesbek&theme=algolia" alt="BeratYesbek"  /></p>
