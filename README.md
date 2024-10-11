@@ -16,7 +16,7 @@ This shift in my focus does not denote a fixation on a specific language or tech
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beratyesbek/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratyesbek@gmail.com)
 [![image](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](http://beratyesbek.medium.com)
-[![image](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://medium.com/@beratyesbek)
+[![image](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BeratYesbek)
 
   
 </div>
