@@ -2,7 +2,7 @@
 
 <h1><p align="center">Hello, I'm Berat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
-I am a Computer Engineering graduate currently serving as a Software Engineer at Deliveryhero/Yemekpay Fintech, contributing to the development of a global payment and wallet system in Turkey. My deep passion for software is the driving force behind my commitment to this dynamic industry. I constantly seek to broaden my expertise by mastering various technologies, focusing on JAVA and the Spring Boot framework. In addition to my coding endeavours, I actively share knowledge with the community through articles and videos on platforms like Medium and YouTube. Beyond the tech world,
+I am a Computer Engineering graduate currently serving as a Software Engineer at Crystalloids. I constantly seek to broaden my expertise by mastering various technologies, focusing on JAVA and the Spring Boot framework. In addition to my coding endeavours, I actively share knowledge with the community through articles and videos on platforms like Medium and YouTube. Beyond the tech world,
 
 Previously, I enjoyed exploring various technologies and programming languages, focusing on Ruby, Java, C#, and Kotlin, with back-end and mobile development work primarily handled by Asp.Net core, JAVA Android SDK, and Ruby on Rails. However, I now dedicate myself wholly to Java and Spring Boot, driven by an insatiable curiosity to master this technology stack.
 
